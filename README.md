@@ -1,5 +1,5 @@
 # Image-Watermarking
-SPM course project: A parallel implementation of watermarking in C
+SPM course project: A parallel implementation of watermarking in C++
 
 To compile and test:
 
